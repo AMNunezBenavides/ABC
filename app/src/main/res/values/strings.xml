@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ABC</string>
+    <string name="txtRegistro">Registro</string>
+    <string name="txtLogin">INICIAR SESION</string>
+    <string name="btnLogin">INGRESAR</string>
+    <string name="txtRecuerdame">Recuérdame</string>
+    <string name="btnMenu">Menu</string>
+    <string name="btnReservas">Reservas</string>
+    <string name="opCerrarSesion">Cerrar Sesión</string>
+</resources>
